@@ -174,7 +174,7 @@ body {
 }
 
 .dropdown-responsive-item a span .arrow-icon {
-  background-image: url("./resources/images/dropdown-icon.svg");
+  background-image: url("../images/dropdown-icon.svg");
   height: 11px;
   width: 11px;
   background-repeat: no-repeat;
@@ -338,7 +338,7 @@ body {
 }
 
 .bg-img-sec {
-  background-image: url("./resources/images/price-bg-img.png");
+  background-image: url("../images/price-bg-img.png");
   height: 350px;
   width: 100%;
   background-repeat: no-repeat;
@@ -381,7 +381,7 @@ body {
 }
 
 .reviewer-sec .review-details-sec .review-star div {
-  background-image: url("resources/images/star-logo.svg");
+  background-image: url("../images/star-logo.svg");
   background-size: contain;
   width: 16px;
   height: 16px;
@@ -396,7 +396,7 @@ body {
 }
 
 .swiper-slide .slide1 {
-  background-image: url("resources/images/slider-img1.jpg");
+  background-image: url("../images/slider-img1.jpg");
   height: 200px;
   width: 100%;
   background-repeat: no-repeat;
@@ -406,7 +406,7 @@ body {
 }
 
 .swiper-slide .slide2 {
-  background-image: url("resources/images/slider-img2.jpg");
+  background-image: url("../images/slider-img2.jpg");
   height: 200px;
   width: 100%;
   background-repeat: no-repeat;
@@ -416,7 +416,7 @@ body {
 }
 
 .swiper-slide .slide3 {
-  background-image: url("resources/images/slider-img3.jpg");
+  background-image: url("../images/slider-img3.jpg");
   height: 200px;
   width: 100%;
   background-repeat: no-repeat;
