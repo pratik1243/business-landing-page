@@ -338,7 +338,7 @@ body {
 }
 
 .bg-img-sec {
-  background-image: url("../resources/images/price-bg-img.png");
+  background-image: url("./resources/images/price-bg-img.png");
   height: 350px;
   width: 100%;
   background-repeat: no-repeat;
