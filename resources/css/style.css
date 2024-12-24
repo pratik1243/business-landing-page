@@ -101,7 +101,7 @@ body {
 }
 
 .dropdown-item a span .arrow-icon {
-  background-image: url("../resources/images/dropdown-icon.svg");
+  background-image: url("../images/dropdown-icon.svg");
   height: 11px;
   width: 11px;
   background-repeat: no-repeat;
