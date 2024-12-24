@@ -10,6 +10,8 @@ var swiper = new Swiper(".mySwiper", {
     nextEl: ".swiper-button-next",
     prevEl: ".swiper-button-prev",
   },
+  observer: true,  
+  observeParents: true,
 });
 
 var swiper = new Swiper(".mySwiper-md", {
@@ -24,6 +26,8 @@ var swiper = new Swiper(".mySwiper-md", {
     nextEl: ".swiper-button-next",
     prevEl: ".swiper-button-prev",
   },
+  observer: true,  
+  observeParents: true,
 });
 
 var swiper = new Swiper(".mySwiper-sm", {
@@ -38,6 +42,8 @@ var swiper = new Swiper(".mySwiper-sm", {
     nextEl: ".swiper-button-next",
     prevEl: ".swiper-button-prev",
   },
+  observer: true,  
+  observeParents: true,
 });
 
 let dropdownbtns = document.querySelectorAll(".dropdown-btn");
